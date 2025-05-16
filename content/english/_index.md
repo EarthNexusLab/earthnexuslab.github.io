@@ -1,53 +1,53 @@
 ---
 # Banner
 banner:
-  title: "The Ultimate Starter Template You Need To Start Your Hugo Project"
-  content: "Hugoplate is a free starter template built with Hugo and TailwindCSS, providing everything you need to jumpstart your Hugo project and save valuable time."
-  image: "/images/banner.png"
+  title: "Bridging Environmental Science and Economics for a Sustainable Future"
+  content: "Earth Nexus Lab is a nonprofit organization promoting interdisciplinary research between environmental science and economics through open science, global collaboration, and data-driven approaches."
+  image: "/images/earth-data-visualization.jpg"
   button:
     enable: true
-    label: "Get Started For Free"
-    link: "https://github.com/zeon-studio/hugoplate"
+    label: "Get Involved"
+    link: "/get-involved"
 
 # Features
 features:
-  - title: "What's Included in Hugoplate"
-    image: "/images/service-1.png"
-    content: "Hugoplate is a comprehensive starter template that includes everything you need to get started with your Hugo project. What's Included in Hugoplate"
+  - title: "Our Mission and Vision"
+    image: "/images/global-research-network.jpg"
+    content: "Earth Nexus Lab connects researchers globally to address complex environmental-economic challenges through collaborative approaches and open science."
     bulletpoints:
-      - "10+ Pre-build pages"
-      - "95+ Google Pagespeed Score"
-      - "Build with Hugo and TailwindCSS for easy and customizable styling"
-      - "Fully responsive on all devices"
-      - "SEO-optimized for better search engine rankings"
-      - "**Open-source and free** for personal and commercial use"
-    button:
-      enable: false
-      label: "Get Started Now"
-      link: "#"
-
-  - title: "Discover the Key Features Of Hugo"
-    image: "/images/service-2.png"
-    content: "Hugo is an all-in-one web framework for building fast, content-focused websites. It offers a range of exciting features for developers and website creators. Some of the key features are:"
-    bulletpoints:
-      - "Zero JS, by default: No JavaScript runtime overhead to slow you down."
-      - "Customizable: Tailwind, MDX, and 100+ other integrations to choose from."
-      - "UI-agnostic: Supports React, Preact, Svelte, Vue, Solid, Lit and more."
-    button:
-      enable: true
-      label: "Get Started Now"
-      link: "https://github.com/zeon-studio/hugoplate"
-
-  - title: "The Top Reasons to Choose Hugo for Your Hugo Project"
-    image: "/images/service-3.png"
-    content: "With Hugo, you can build modern and content-focused websites without sacrificing performance or ease of use."
-    bulletpoints:
-      - "Instantly load static sites for better user experience and SEO."
-      - "Intuitive syntax and support for popular frameworks make learning and using Hugo a breeze."
-      - "Use any front-end library or framework, or build custom components, for any project size."
-      - "Built on cutting-edge technology to keep your projects up-to-date with the latest web standards."
+      - "Foster interdisciplinary research in environmental economics"
+      - "Connect students and researchers at different academic levels"
+      - "Promote open science through sharing tools, code, papers, and data"
+      - "Support sustainable development and informed policy-making"
+      - "Optimize global resource allocation strategies"
     button:
       enable: false
       label: ""
       link: ""
+
+  - title: "Our Key Activities"
+    image: "/images/environmental-economic-research.jpg"
+    content: "We engage in various activities to fulfill our mission of connecting researchers and promoting environmental-economic research."
+    bulletpoints:
+      - "Organize workshops, lectures, networking events, and academic conferences"
+      - "Execute research plans and publish open-access findings"
+      - "Guide top talent in AI, remote sensing, quantitative finance, and supply chain strategy"
+      - "Collaborate with laboratories to strengthen multidisciplinary research"
+    button:
+      enable: true
+      label: "Learn More"
+      link: "/about"
+
+  - title: "Join Our Global Research Community"
+    image: "/images/diverse-research-collaboration.jpg"
+    content: "Earth Nexus Lab welcomes students, researchers, and professionals interested in the intersection of environmental science and economics."
+    bulletpoints:
+      - "Participate in our events and collaborative research projects"
+      - "Access open science resources and research findings"
+      - "Connect with leading researchers from around the world"
+      - "Contribute to solutions for complex environmental-economic challenges"
+    button:
+      enable: true
+      label: "Contact Us"
+      link: "/contact"
 ---
