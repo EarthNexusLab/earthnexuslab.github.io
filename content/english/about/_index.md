@@ -27,12 +27,12 @@ As a scientific 501(c)(3) nonprofit organization, Earth Nexus Lab engages in the
 Earth Nexus Lab is governed by a dedicated board of directors who oversee our strategic direction and operations:
 
 - **Zequn Yang** - President
-- **Xinyu Wang** - Treasurer
+- **Jiqi Zhu** - Treasurer
 - **Rongxiu Wu** - Clerk
 - **Yuxuan Cai** - Director
 - **Jiale Zhou** - Director
 - **Huiyu** - Director
-- **Jiqi Zhu** - Director
+- **Xinyu Wang** - Director
 
 ## Join Us
 
